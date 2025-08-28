@@ -1,9 +1,10 @@
 <h1 align="center">Hi there, I'm Daria<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3>:eyes: About me</h3>
-<h4 align="left">I am frontend-developer from Russia <img src="https://github.com/ramach05/ramach05/blob/main/images/russian-flag.gif?raw=true"/ height="20"></h3>
+<h4 align="left">I'm frontend-developer from Russia <img src="https://github.com/ramach05/ramach05/blob/main/images/russian-flag.gif?raw=true"/ height="20"></h3>
 <ul>
+      <li>I like to create projects that make people's lives more comfortable and their lives a little better. I always think about how I can improve my project to make it as high-quality and convenient as possible.</li>
       <li>I strive to improve my skills and gain experience.</li>
-      <li>I'm actively looking for a job right now. Here is my resume.</li>
+      <li>I'm actively looking for a job right now. <a>Here is my resume.<a></li>
 </ul>
 <hr>
 <h3>:computer: Languages and tools</h3> 

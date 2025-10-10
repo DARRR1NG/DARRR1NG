@@ -4,7 +4,7 @@
 <ul>
       <li>I like to create projects that make people's lives more comfortable and their lives a little better. I always think about how I can improve my project to make it as high-quality and convenient as possible.</li>
       <li>I strive to improve my skills and gain experience.</li>
-      <li>I'm actively looking for a job right now. <a href="#000">Here is my resume.<a></li>
+      <li>I'm actively looking for a job right now.</li>
 </ul>
 <hr>
 <h3>:computer: Languages and tools</h3> 

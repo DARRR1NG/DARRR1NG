@@ -9,6 +9,6 @@
 <hr>
 <h3>:computer: Languages and tools</h3> 
 <div align="left"><img src="https://images.icon-icons.com/2107/PNG/512/file_type_html_icon_130541.png"/ height="40">  <img src="https://images.icon-icons.com/2107/PNG/512/file_type_css_icon_130661.png"/ height="40">  <img src="https://images.icon-icons.com/2108/PNG/512/javascript_icon_130900.png" height="40"> <img src="https://www.svgrepo.com/show/349540/typescript.svg" height="40"> <img src="https://images.icon-icons.com/2429/PNG/512/figma_logo_icon_147289.png" height="40"/>  <img src="https://cdn.brandfetch.io/idqeSF6CKl/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="40"> </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARRR1NG&layout=compact"/>
+
 
 

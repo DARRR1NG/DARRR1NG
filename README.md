@@ -1,13 +1,12 @@
-<h1 align="center">Hi there, I'm Daria<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3>:eyes: About me</h3>
-<h4 align="left">I'm frontend-developer from Russia </h3>
+<h1 align="center">Привет, я Дарья!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3>:eyes: Обо мне</h3>
+<h4 align="left">Я фронтенд-разрабочтк из России</h3>
 <ul>
-      <li>I like to create projects that make people's lives more comfortable and their lives a little better. I always think about how I can improve my project to make it as high-quality and convenient as possible.</li>
-      <li>I strive to improve my skills and gain experience.</li>
-      <li>I'm actively looking for a job right now.</li>
+      <li>Мне нравится создавать проекты, которые делают жизнь людей комфортнее и немного лучше. Я всегда думаю о том, как улучшить свой проект, чтобы сделать его максимально качественным и удобным.</li>
+      <li>Я стремлюсь совершенствовать свои навыки и набираться опыта.</li>
+      <li>Сейчас я активно ищу работу.</li>
 </ul>
-<hr>
-<h3>:computer: Languages and tools</h3> 
+<h3>:computer: Стек</h3> 
 <div align="left">
       <img src="https://images.icon-icons.com/2107/PNG/512/file_type_html_icon_130541.png" height="40" alt="html">
       <img src="https://images.icon-icons.com/2107/PNG/512/file_type_css_icon_130661.png" height="40" alt="css">  

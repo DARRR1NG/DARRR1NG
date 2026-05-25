@@ -15,8 +15,9 @@
       <img src="https://images.icon-icons.com/2429/PNG/512/figma_logo_icon_147289.png" height="40" alt="figma">  
       <img width="40" height="40" alt="vite" src="https://github.com/user-attachments/assets/2ef3c107-6c94-45ae-a7f8-e7de9d1419c5" />
       <img src="https://github.com/user-attachments/assets/8633f295-bd72-47fc-bf1d-cb05848e0865" height="40" alt="react">
+      <img width="40" height="40" src="https://github.com/user-attachments/assets/2462f2f3-1205-4175-ac42-511038ba0638" alt="react-router"/>
       <img width="40" height="40" src="https://github.com/user-attachments/assets/2bb106af-b6c4-469d-b3bb-abaed00f576c" alt="redux"/>
-      <img width="40" height="40" alt="jest" src="https://github.com/user-attachments/assets/407786d3-b94c-4fd1-9b44-c05a20391b57" />
+      <img width="40" height="40" src="https://github.com/user-attachments/assets/407786d3-b94c-4fd1-9b44-c05a20391b57" alt="jest"/>
 </div>
 
 

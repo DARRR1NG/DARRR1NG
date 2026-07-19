@@ -12,6 +12,8 @@
             <li> <img src="https://images.icon-icons.com/2107/PNG/512/file_type_css_icon_130661.png" height="14" alt="css"> CSS</li>
             <li> <img src="https://images.icon-icons.com/2108/PNG/512/javascript_icon_130900.png" height="14" alt="javascript"> JavaScript</li>
             <li> <img src="https://www.svgrepo.com/show/349540/typescript.svg" height="14" alt="typescript"> TypeScript</li>
+            <li> <img height="14" src="https://images.icon-icons.com/112/PNG/512/python_18894.png" alt="Python"/> Python</li>
+            <li> <img height="14" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++"/> C++</li>
             <li>  <img height="14" src="https://images.icon-icons.com/2415/PNG/512/react_original_logo_icon_146374.png" alt="react"/> React</li>
             <li> <img height="14" src="https://github.com/user-attachments/assets/2462f2f3-1205-4175-ac42-511038ba0638" alt="react-router"/> React Router</li>
             <li> <img height="14" src="https://github.com/user-attachments/assets/2bb106af-b6c4-469d-b3bb-abaed00f576c" alt="redux"/> Redux</li>

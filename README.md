@@ -1,4 +1,4 @@
-<h1 align="center">Всем привет, я Дарья!</h1>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=37&duration=3000&pause=5000&color=000000E6&center=true&vCenter=true&repeat=false&width=436&height=60&lines=%D0%92%D1%81%D0%B5%D0%BC+%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%94%D0%B0%D1%80%D1%8C%D1%8F!" alt="Typing SVG" /></a></div>
 <h3>Обо мне</h3>
 <ul>
       <li>Я фронтенд-разработчик с опытом создания быстрых и функциональных сайтов. </li>
